@@ -1,0 +1,52 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "roll_number": "001"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "roll_number": "002"
+  },
+  {
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "roll_number": "003"
+  },
+  {
+    "name": "Bob Brown",
+    "email": "bob.brown@example.com",
+    "roll_number": "004"
+  },
+  {
+    "name": "Emma Davis",
+    "email": "emma.davis@example.com",
+    "roll_number": "005"
+  },
+  {
+    "name": "Michael Wilson",
+    "email": "michael.wilson@example.com",
+    "roll_number": "006"
+  },
+  {
+    "name": "Olivia Martinez",
+    "email": "olivia.martinez@example.com",
+    "roll_number": "007"
+  },
+  {
+    "name": "William Taylor",
+    "email": "william.taylor@example.com",
+    "roll_number": "008"
+  },
+  {
+    "name": "Sophia Anderson",
+    "email": "sophia.anderson@example.com",
+    "roll_number": "009"
+  },
+  {
+    "name": "James Garcia",
+    "email": "james.garcia@example.com",
+    "roll_number": "010"
+  }
+]
